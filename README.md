@@ -1,5 +1,5 @@
 # Quiz-Friends 
-![](https://github.com/leticiarose/Quiz-Friends-/blob/main/Quiz.png)
+![](https://github.com/leticiarose/Quiz-Friends/blob/main/Quiz.png)
 
 ## 📌 Objective
 
