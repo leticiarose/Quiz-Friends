@@ -1,0 +1,74 @@
+{
+  "bg": "https://images8.alphacoders.com/543/thumb-1920-543961.jpg",
+  "title": "How you doin?",
+  "description": "Um quiz rápido para testar seus conhecimentos sobre a série Friends!",
+  "questions": [
+    {
+      "image": "https://i.pinimg.com/originals/4b/8f/95/4b8f95b4ca779c46b33f3f7934316bd1.gif",
+      "title": " Quem tem medo de cachorro na série?",
+      "description": "Essa é para aquecer",
+      "answer": 3,
+      "alternatives": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ]
+    },
+
+    {
+      "image": "https://media3.giphy.com/media/10vky7p3ipDREA/200.gif",
+      "title": "Quem faz a Monica na série? ",
+      "answer": 2,
+      "alternatives": [
+        "Lisa Kudrow",
+        "Phoebe Buffay",
+        "Courteney Cox ",
+        "Maggie Wheeler"
+      ]
+    },
+
+    {
+      "image": "https://media2.giphy.com/media/kcfiK948yUHSqoNzwi/giphy.gif",
+      "title": "    Quando a série foi lançada? ",
+      "description": "Essa faz tempo hahaha",
+      "answer": 2,
+      "alternatives": [
+        "1997",
+        "1991",
+        "1994",
+        "1999"
+      ]
+    },
+
+    {
+      "image": "https://i.pinimg.com/originals/a3/87/8a/a3878a6d4ab3fab97c1cc49035e0fbc7.gif",
+      "title": "Qual era a frase marcante de Janice? ",
+      "description": "Quem aí lembra da namorada irritante do Chandler com sua voz nasalada e risada incomum? ",
+      "answer": 1,
+      "alternatives": [
+        "Hello Chandler Bing.",
+        "Oh my God!",
+        "Oh my mom!",
+        "Oh my dad!"
+      ]
+    }
+  ],
+  
+  
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#c786d3",
+      "secondary": "#c786d3",
+      "mainBg": "#213f4e",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
