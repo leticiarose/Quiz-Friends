@@ -15,6 +15,6 @@
 
 # Deploy
 
-## If you want to view the quiz👉 [Click here!](https://quiz-friends-mauve.vercel.app/)
+### If you want to view the quiz👉 [Click here!](https://quiz-friends-mauve.vercel.app/)
 
-## Made with ❤️ by Letícia Rose 👉 [Get in touch! ](https://www.linkedin.com/in/let%C3%ADciarose/)
+### Made with ❤️ by Letícia Rose 👉 [Get in touch! ](https://www.linkedin.com/in/let%C3%ADciarose/)
