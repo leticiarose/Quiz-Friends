@@ -13,7 +13,7 @@
 
 - NextJS
 
-# Deploy
+# Deploy:
 
 ### If you want to view the quiz👉 [Click here!](https://quiz-friends-mauve.vercel.app/)
 
